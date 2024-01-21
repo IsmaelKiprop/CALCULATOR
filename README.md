@@ -42,3 +42,4 @@ This project involves creating a simple calculator using HTML, CSS, and JavaScri
 - This project is created for learning purposes and serves as a basic introduction to HTML, CSS, and JavaScript.
 
 Feel free to customize and enhance the calculator based on your preferences. Happy coding!
+
